@@ -2,6 +2,12 @@
 
 ## Programming and Scripting
 
+## Summary About Fisher's Iris Dataset
+
+Ronald fisher is a British statistician biologist. He published fisher's Iris data set which also known as Anderson iris data set in 1936.The data set consist of 50 samples from 3 different types of irises(setosa, versicolour, virginica)Four faetures were measured from each sample:the length and the width of the sepal and petals in centimeters.
+
+Based on the combination of these four features,fisher developed a linear discrimination of these four features, fisher developed a linear discrimination model to distinguish the species from each other.
+
 Based on Fisher's linear discriminant model, this data set became a typical test case for many statistical classification techniques in machine learning such as support vector machines.[5]
 
 The use of this data set in cluster analysis however is not common, since the data set only contains two clusters with rather obvious separation. One of the clusters contains Iris setosa, while the other cluster contains both Iris virginica and Iris versicolor and is not separable without the species information Fisher used. This makes the data set a good example to explain the difference between supervised and unsupervised techniques in data mining: Fisher's linear discriminant model can only be obtained when the object species are known: class labels and clusters are not necessarily the same.[6]
