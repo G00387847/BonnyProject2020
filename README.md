@@ -1,4 +1,4 @@
-# Project 2020
+# Fisher's Iris data set [3]
 
 ## Programming and Scripting
 
