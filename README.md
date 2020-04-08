@@ -24,7 +24,7 @@ There are 5 attribute and 150
 
 Source - https://en.wikipedia.org/wiki/Iris_flower_data_set
         
-        https://github.com/RitRa/Project2018-iris
+        [github](https://github.com/RitRa/Project2018-iris/)
         
         https://github.com/richardfeeney7/FisherIrisDataSetProject
 
