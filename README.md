@@ -16,6 +16,7 @@ Nevertheless, all three species of Iris are separable in the projection on the n
 
 ![Capture1.PNG](https://github.com/G00387847/BonnyProject2020/blob/master/Images/Capture1.PNG)
 ![Capture2.PNG](https://github.com/G00387847/BonnyProject2020/blob/master/Images/Capture2.PNG)
+![Capture3.PNG](https://github.com/G00387847/BonnyProject2020/blob/master/Images/Capture3.PNG)
 
 
 
