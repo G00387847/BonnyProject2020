@@ -1,3 +1,9 @@
+# Bonny Chimezie Nwosu
+
+# This program outputs a scatter plot each pair of 
+# Iris dataste variable
+
+# source - https://stackoverflow.com/questions/45862223/use-different-colors-in-scatterplot-for-iris-dataset 
 
 import matplotlib.pyplot as plt
 import seaborn as sns
