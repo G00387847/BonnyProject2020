@@ -1,7 +1,7 @@
 # Bonny Chimezie Nwosu
 
-# This program outputs a scatter plot each pair of 
-# Iris dataste variable
+# This program outputs a scatter plot of each pair of variables
+# Using Iris dataset
 
 # source - https://stackoverflow.com/questions/45862223/use-different-colors-in-scatterplot-for-iris-dataset 
 
