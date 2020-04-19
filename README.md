@@ -23,18 +23,15 @@ There are 5 attribute and 150
 
 
 Source - https://en.wikipedia.org/wiki/Iris_flower_data_set
-
+Source - https://github.com/richardfeeney7/FisherIrisDataSetProject
            
-        https://github.com/richardfeeney7/FisherIrisDataSetProject
+
+Source - https://github.com/richardfeeney7/FisherIrisDataSetProject
         
-        https://github.com/RitRa/Project2018-iris
+         https://github.com/RitRa/Project2018-iris
 
-       https://medium.com/codebagng/basic-analysis-of-the-iris-data-set-using-python-2995618a6342
-
-       https://www.w3resource.com/machine-learning/scikit-learn/iris/index.php
-
-       https://archive.ics.uci.edu/ml/machine-learning-databases/iris/iris.data&#8221;
-
+         https://www.w3resource.com/machine-learning/scikit-learn/iris/index.php
+        
         
         
 
