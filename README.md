@@ -19,7 +19,7 @@ There are 5 attribute and 150
 ![Capture2.PNG](https://github.com/G00387847/BonnyProject2020/blob/master/Images/Capture2.PNG)
 ![Capture3.PNG](https://github.com/G00387847/BonnyProject2020/blob/master/Images/Capture3.PNG)
 
-# Python code
+## Python code
  This python program call Analysis.py
  output a summary of each variable to a single text file and
  Save a histogram of each variable to png files and
@@ -58,8 +58,6 @@ plt.savefig("TimeWaiting")
 
 REFERENCE
 Background summary - https://en.wikipedia.org/wiki/Iris_flower_data_set
-
-Guide to understanding and study on how to write Dataset Project
 
                     https://github.com/richardfeeney7/FisherIrisDataSetProject
 
