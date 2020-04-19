@@ -56,12 +56,13 @@ plt.show()
 plt.savefig("TimeWaiting")
 
 
-REFERENCE
+##      REFERENCE
+
 Background summary - https://en.wikipedia.org/wiki/Iris_flower_data_set
 
-                    https://github.com/richardfeeney7/FisherIrisDataSetProject
+                     https://github.com/richardfeeney7/FisherIrisDataSetProject
 
-                    https://github.com/RitRa/Project2018-iris
+                     https://github.com/RitRa/Project2018-iris
            
 
 
