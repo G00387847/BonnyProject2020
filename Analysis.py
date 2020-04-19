@@ -1,7 +1,7 @@
 # Bonny Chimezie Nwosu
-# Writing python program call Analsis.py
+# Writing python program call Analysis.py
 # That output a summary of each variable to a single text file
-# Saves a histogram of each variable to png files
+# Save a histogram of each variable to png files
 # Output a scatter plot of each pair of variables
 
 # import libraries
@@ -10,7 +10,8 @@ import matplotlib.pyplot as plt
 
 # Reading file from url
 df = pd.read_csv("https://raw.githubusercontent.com/gchoi/Dataset/master/OldFaithful.csv")
-df["TimeEruption"]
+
+# Scatter plot output
 plt.plot(df["TimeEruption"],df["TimeWaiting"],'b.')
 plt.title("scatter plot")
 plt.title("Scatter Plot")

@@ -19,14 +19,51 @@ There are 5 attribute and 150
 ![Capture2.PNG](https://github.com/G00387847/BonnyProject2020/blob/master/Images/Capture2.PNG)
 ![Capture3.PNG](https://github.com/G00387847/BonnyProject2020/blob/master/Images/Capture3.PNG)
 
+# Python code
+ This python program call Analysis.py
+ output a summary of each variable to a single text file and
+ Save a histogram of each variable to png files and
+ Output a scatter plot of each pair of variables
+ I also import pandas as pd to read csv file and matplotlib to plot graph
+
+## import libraries
+import pandas as pd
+import matplotlib.pyplot as plt
+
+## Reading file from url
+df = pd.read_csv("https://raw.githubusercontent.com/gchoi/Dataset/master/OldFaithful.csv")
+
+## Scatter plot output
+plt.plot(df["TimeEruption"],df["TimeWaiting"],'b.')
+plt.title("scatter plot")
+plt.title("Scatter Plot")
+plt.xlabel("X")
+plt.ylabel("Y")
+plt.show()
+plt.clf()
+
+## Save Histogram TimeEruption plot to png file
+plt.hist(df["TimeEruption"])
+plt.title("Histogram TimeEruption")
+plt.show()
+plt.savefig("TimeEruption")
+plt.clf()
+
+## Save Histogram TimeWaiting plot to png file
+plt.hist(df["TimeWaiting"])
+plt.title("Histogram TimeWaiting")
+plt.show()
+plt.savefig("TimeWaiting")
 
 
+REFERENCE
+Background summary - https://en.wikipedia.org/wiki/Iris_flower_data_set
 
-Reference - https://en.wikipedia.org/wiki/Iris_flower_data_set
+Guide to understanding and study on how to write Dataset Project
 
-Reference - https://github.com/richardfeeney7/FisherIrisDataSetProject
+                    https://github.com/richardfeeney7/FisherIrisDataSetProject
 
-Refernce -        https://github.com/RitRa/Project2018-iris
+                    https://github.com/RitRa/Project2018-iris
            
 
 
